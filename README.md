@@ -1,5 +1,10 @@
 # Spreadsheets
-Spreadsheets
+Ninja - Main Spreadsheet, Updated for 2025
+Ninja Trust Buffs - Spreadsheet already setup for Trust Buffs, Updated for 2025
+Ninja Hybrid WeaponSkills - Spreadsheet already stup for Party Buffs, Updated for 2025
+Ninja Party Buffs - Hybrid Weaponskill Spreadsheet, Updates for 2025
+
+Spreadsheets - None have been updated with Sortie or The Orb's Radiance Gear but otherwise up to date.
 DW0 Hi Shun Capped DPS Set - BiS Hi and Shun sets for Capped Situations <br>
 DW0 Hi Shun Trust DPS Set - BiS Hi and Shun set for Trust Buffed Situations <br>
 DW0 Hybrid Weaponskills - Used for comparisons of Hybrid Weaponskills.  See side notes for possible combinations of DPS. <br>
